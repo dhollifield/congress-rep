@@ -1,0 +1,28 @@
+body {
+    background-color: crimson;
+}
+
+h2 {
+    background-color: blue;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+}
+
+.rep-info {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.committee {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.legislation {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
